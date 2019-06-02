@@ -57,7 +57,7 @@ export PYTHONPATH=/PATH/TO/MN(+AS):$PYTHONPATH
 ```
 
 ## Data
-'''
+
 Use MN(+AS)/scripts/build_vocab.py to generate Vocab
 ```
 python MN(+AS)/scripts/build_vocab.py /PATH/TO/DATA  /PATH/TO/Vocab 
