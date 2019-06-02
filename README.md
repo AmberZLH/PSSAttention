@@ -1,7 +1,7 @@
 # PSSAttention
 Codes for # ACL2019 paper "Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis", which contains TNet-Att(+AS) and MN(+AS)
 
-
+Copy from https://github.com/TangJiaLong/PSSAttention
 
 # TNet-Att(+AS)
 
